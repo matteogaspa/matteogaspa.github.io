@@ -15,6 +15,6 @@ Matteo Gasparin
 
 Dept. of Statistical Sciences\\
 via Cesare Battisti, 241\\
-Padova, Veneto, Italy\\
+Padova, Veneto, Italy
 
 # Research interests
