@@ -13,8 +13,8 @@ I am a PhD student in Statistical Sciences at the [University of Padova](https:/
 # Info
 Matteo Gasparin
 
-Dept. of Statistical Sciences
-via Cesare Battisti, 241
-Padova, Veneto, Italy
+Dept. of Statistical Sciences\\
+via Cesare Battisti, 241\\
+Padova, Veneto, Italy\\
 
 # Research interests
