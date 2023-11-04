@@ -18,3 +18,8 @@ via Cesare Battisti, 241\\
 Padova, Veneto, Italy
 
 # Research interests
+I am deeply interested in statistical theory and methodology both parametric and nonparametric. Some examples are:
+- uncertainty quantification \\
+- high-dimensional problems \\
+- variable selection \\
+- multiple testing 
