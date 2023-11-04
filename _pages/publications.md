@@ -10,8 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-Gasparin M., Scarpa B., Stanghellini E. (202+). Omitting continuous covariates in binary regression models: implications for sensitivity and mediation analysis\\
-[arxiv](https://arxiv.org/abs/2306.09969)
+Gasparin M., Scarpa B., Stanghellini E. (202+). Omitting continuous covariates in binary regression models: implications for sensitivity and mediation analysis. [arXiv](https://arxiv.org/abs/2306.09969)
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
