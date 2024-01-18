@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Gasparin M., Ramdas A. (202+). Merging uncertainty sets via majority vote. [arXiv](https://arxiv.org/abs/2401.09379)
+
 Baritussio A., Giordani A.S., Basso C., Vicenzetto C., Lorenzoni G., Gasparin M., Iliceto S., Scarpa B., Gregori D., Marcolongo R., Caforio A.L.P. (2023). Uneventful COVID-19 Infection and Vaccination in a Cohort of Patients with Prior Myocarditis, Vaccines, 11(12):1742. [link](https://www.mdpi.com/2076-393X/11/12/1742)
 
 
