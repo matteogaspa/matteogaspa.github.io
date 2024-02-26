@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistical Sciences at the [University of Padova](https://www.stat.unipd.it). 
+I am a PhD student in Statistical Sciences at the [University of Padova](https://www.stat.unipd.it), advised by Bruno Scarpa. I am currently a Visiting Research Scholar in the department of Statistics and Data Science at Carnegie Mellon University working with [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/) and his group.
 
 # Info
 Matteo Gasparin
