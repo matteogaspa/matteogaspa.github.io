@@ -6,23 +6,18 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Merging uncertainty sets via majority vote
+## Merging uncertainty sets via majority vote\\
+April 2024 - ISSI (International Seminar on Selective Inference), online meeting
 
-March 2023 - ISSI (International Seminar on Selective Inference), online meeting
+## Merging uncertainty sets via majority vote\\
+March 2024 - INRIA (Research group Missing Values & Causal Inference), online meeting
 
-## Merging uncertainty sets via majority vote
-
-March 2023 - INRIA (Research group Missing Values & Causal Inference), online meeting
-
-## Evaluating the influence of environmental factors on UA diseases through Mediation Analysis for a binary outcome 
-
-July 2023 - Prin Select Finals Workshop, Venice, Italy
-
+## Evaluating the influence of environmental factors on UA diseases through Mediation Analysis for a binary outcome\\
+July 2023 - Prin Select Finals Workshop, Venice, Italy\\
 [Website](https://selectprin.github.io)
 
-## On the omission of continuous covariates in logistic regression
-December 2022 - ICSDS Conference, Florence, Italy
-
+## On the omission of continuous covariates in logistic regression\\
+December 2022 - ICSDS Conference, Florence, Italy\\
 [Poster](/files/Poster.pdf)
 
 
