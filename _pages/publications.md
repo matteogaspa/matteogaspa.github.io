@@ -13,6 +13,8 @@ author_profile: true
 
 ## Preprints and working papers
 
+Gasparin M., Wang R., Ramdas A. (202+). Combining exchangeable p-values [arXiv](https://arxiv.org/abs/2404.03484)
+
 Gasparin M., Ramdas A. (202+). Conformal online model aggregation. [arXiv](https://arxiv.org/abs/2403.15527)
 
 Gasparin M., Ramdas A. (202+). Merging uncertainty sets via majority vote. [arXiv](https://arxiv.org/abs/2401.09379)
