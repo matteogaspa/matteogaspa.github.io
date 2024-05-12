@@ -12,7 +12,7 @@ April 2024 - ASA PGH (American Statistical Association Pittsburgh), Pittsburgh, 
 
 **Merging uncertainty sets via majority vote**\\
 April 2024 - ISSI (International Seminar on Selective Inference), online meeting\\
-*Talk*
+*Talk* [(talk)](https://drive.google.com/file/d/15U47h9kQs9lmbUSuX4VibTiqTHfm25Y_/view)
 
 **Merging uncertainty sets via majority vote**\\
 March 2024 - INRIA (Research group Missing Values & Causal Inference), online meeting\\
