@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+**Conformal online model aggregation**\\
+May 2024 - AI-SDM (Artificial Inteligence for Societal Decision Making), Pittsburgh, USA\\
+*Poster session*
+
 **Merging uncertainty sets via majority vote**\\
 April 2024 - ASA PGH (American Statistical Association Pittsburgh), Pittsburgh, USA\\
 *Poster session* [(poster)](/files/poster_mj_vote.pdf)
