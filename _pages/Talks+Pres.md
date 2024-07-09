@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "Talks & presentations"
+title: "Talks & Presentations"
 permalink: /Talks+Pres/
 author_profile: true
 ---
 
 {% include base_path %}
+**Combining exchangeable p-values**\\
+June 2024 - ISNPS (International Symposia on Nonparametric Statistics), Braga, Portugal\\
+*Talk*
+
 **Conformal online model aggregation**\\
 May 2024 - AI-SDM (Artificial Inteligence for Societal Decision Making), Pittsburgh, USA\\
 *Poster session*
