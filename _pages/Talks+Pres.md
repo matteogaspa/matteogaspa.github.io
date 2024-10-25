@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 **Combining exchangeable p-values**\\
+October 2024 - Waterloo Student conference in Statistics, Acturial Sciences and Finance, Waterloo, Canada\\
+*Talk*
+
+**Combining exchangeable p-values**\\
 June 2024 - ISNPS (International Symposia on Nonparametric Statistics), Braga, Portugal\\
 *Talk*
 
