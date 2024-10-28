@@ -32,7 +32,7 @@ March 2024 - INRIA (Research group Missing Values & Causal Inference), online me
 
 **Evaluating the influence of environmental factors on UA diseases through Mediation Analysis for a binary outcome**\\
 July 2023 - Prin Select Finals Workshop, Venice, Italy\\
-*Talk* [(website)](https://selectprin.github.io)
+*Talk* 
 
 **On the omission of continuous covariates in logistic regression**\\
 December 2022 - ICSDS Conference, Florence, Italy\\
