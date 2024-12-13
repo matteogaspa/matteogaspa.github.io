@@ -20,11 +20,11 @@ May 2024 - AI-SDM (Artificial Inteligence for Societal Decision Making), Pittsbu
 
 **Merging uncertainty sets via majority vote**\\
 April 2024 - ASA PGH (American Statistical Association Pittsburgh), Pittsburgh, USA\\
-*Poster session* [(poster)](/files/poster_mj_vote.pdf)
+*Poster session* [[poster]](/files/poster_mj_vote.pdf)
 
 **Merging uncertainty sets via majority vote**\\
 April 2024 - ISSI (International Seminar on Selective Inference), online meeting\\
-*Talk* [(talk)](https://drive.google.com/file/d/15U47h9kQs9lmbUSuX4VibTiqTHfm25Y_/view)
+*Talk* [[talk]](https://drive.google.com/file/d/15U47h9kQs9lmbUSuX4VibTiqTHfm25Y_/view)
 
 **Merging uncertainty sets via majority vote**\\
 March 2024 - INRIA (Research group Missing Values & Causal Inference), online meeting\\
@@ -36,7 +36,7 @@ July 2023 - Prin Select Finals Workshop, Venice, Italy\\
 
 **On the omission of continuous covariates in logistic regression**\\
 December 2022 - ICSDS Conference, Florence, Italy\\
-*Poster session* [(poster)](/files/Poster.pdf)
+*Poster session* [[poster]](/files/Poster.pdf)
 
 
 
