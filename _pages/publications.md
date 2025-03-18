@@ -21,7 +21,7 @@ Gasparin M., Ramdas A. (202+). Merging uncertainty sets via majority vote. [[arX
 
 
 ## Journal articles
-Gasparin M., Wang R., Ramdas A. (2025). Combining exchangeable p-values. Proceedings of the National Accademy of Science (PNAS), Accepted [[arXiv]](https://arxiv.org/abs/2404.03484)
+Gasparin M., Wang R., Ramdas A. (2025). Combining exchangeable p-values. Proceedings of the National Accademy of Science (PNAS), 122 (11) e2410849122. [[arXiv]](https://arxiv.org/abs/2404.03484)[[link]](https://doi.org/10.1073/pnas.2410849122)
 
 Gasparin M., Scarpa B., Stanghellini E. (2025). Omitting continuous covariates in binary regression models: Implications for sensitivity and mediation analysis. Statistica Neerlandica, 79(1), e1236. [[arXiv]](https://arxiv.org/abs/2306.09969)[[link]](https://onlinelibrary.wiley.com/doi/full/10.1111/stan.12369)
 
