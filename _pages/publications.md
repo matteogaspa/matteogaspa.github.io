@@ -19,7 +19,7 @@ Gasparin M., Ramdas A. (202+). Merging uncertainty sets via majority vote. [[arX
 
 
 ## Journal articles
-Gasparin M., Ramdas A. (2025). Improving the statistical efficiency of cross-conformal prediction. *Intl. Conf. on Machine Learning (ICML)*, Accepted [[arXiv]](https://arxiv.org/abs/2503.01495)
+Gasparin M., Ramdas A. (2025). Improving the statistical efficiency of cross-conformal prediction. *Intl. Conf. on Machine Learning (ICML)*, Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:18848-18867 [[arXiv]](https://arxiv.org/abs/2503.01495)[[link]](https://proceedings.mlr.press/v267/)
 
 Gasparin M., Wang R., Ramdas A. (2025). Combining exchangeable p-values. *Proceedings of the National Accademy of Science (PNAS)*, 122 (11) e2410849122. [[arXiv]](https://arxiv.org/abs/2404.03484)[[link]](https://doi.org/10.1073/pnas.2410849122)
 
