@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Conference Presentations & Seminars
 **Combining exchangeable p-values**\\
 October 2024 - Waterloo Student conference in Statistics, Acturial Sciences and Finance, Waterloo, Canada\\
 *Talk*
@@ -22,6 +23,12 @@ May 2024 - AI-SDM (Artificial Inteligence for Societal Decision Making), Pittsbu
 April 2024 - ASA PGH (American Statistical Association Pittsburgh), Pittsburgh, USA\\
 *Poster session* [[poster]](/files/poster_mj_vote.pdf)
 
+**On the omission of continuous covariates in logistic regression**\\
+December 2022 - ICSDS Conference, Florence, Italy\\
+*Poster session* [[poster]](/files/Poster.pdf)
+
+
+## Invited Talks 
 **Merging uncertainty sets via majority vote**\\
 April 2024 - ISSI (International Seminar on Selective Inference), online meeting\\
 *Talk* [[talk]](https://drive.google.com/file/d/15U47h9kQs9lmbUSuX4VibTiqTHfm25Y_/view)
@@ -33,12 +40,3 @@ March 2024 - INRIA (Research group Missing Values & Causal Inference), online me
 **Evaluating the influence of environmental factors on UA diseases through Mediation Analysis for a binary outcome**\\
 July 2023 - Prin Select Finals Workshop, Venice, Italy\\
 *Talk* 
-
-**On the omission of continuous covariates in logistic regression**\\
-December 2022 - ICSDS Conference, Florence, Italy\\
-*Poster session* [[poster]](/files/Poster.pdf)
-
-
-
- 
-
