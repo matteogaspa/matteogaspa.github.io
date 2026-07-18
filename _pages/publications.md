@@ -5,25 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.publications-list {
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.publications-list p {
+  margin-bottom: 1em;
+}
+</style>
+
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a></u>.
 {% endif %}
 
 {% include base_path %}
 
-### Preprints and Working Papers
+## Preprints and Working Papers
 
-<div style="font-size: 0.85em;">
+<div class="publications-list" markdown="1">
 
 Gasparin M., Ramdas A. (202+). Merging uncertainty sets via majority vote. [[arXiv]](https://arxiv.org/abs/2401.09379)
 
 </div>
 
-### Published Papers
+## Published Papers
 
-<div style="font-size: 0.85em;">
+<div class="publications-list" markdown="1">
 
-Gasparin M., Ramdas A. (2026). Conformal online model aggregation. *Uncertainty in AI (UAI)*, Accepted. [[arXiv]](https://arxiv.org/abs/2403.15527)
+Gasparin M., Ramdas A. (2026). Conformal online model aggregation. *Uncertainty in AI (UAI)*, accepted. [[arXiv]](https://arxiv.org/abs/2403.15527)
 
 Gasparin M., Ramdas A. (2025). Improving the statistical efficiency of cross-conformal prediction. *International Conference on Machine Learning (ICML)*, Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:18848–18867. [[arXiv]](https://arxiv.org/abs/2503.01495) [[link]](https://proceedings.mlr.press/v267/)
 
