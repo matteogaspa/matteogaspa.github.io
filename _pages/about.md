@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Department of Economics at USI, under the supervision of [Antonietta Mira](https://search.usi.ch/it/persone/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta). I completed my PhD in Statistical Sciences at the [University of Padova](https://www.stat.unipd.it), advised by Professor Bruno Scarpa. I spent a year as a visiting research scholar at the Department of Statistics and Data Science at Carnegie Mellon University, working with [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/) and his research group.
+I am a postdoctoral researcher in the Chair of Statistical Data Science at EPFL, working with [Sofia Olhede](https://people.epfl.ch/sofia.olhede?lang=en).Previously, I was a postdoctoral researcher in the Department of Economics at USI, working with [Antonietta Mira](https://search.usi.ch/it/persone/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta). I completed my PhD in Statistical Sciences at the [University of Padova](https://www.stat.unipd.it), advised by [Bruno Scarpa] (https://homes.stat.unipd.it/brunoscarpa/). I spent a year as a visiting research scholar at the Department of Statistics and Data Science at Carnegie Mellon University, working with [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/).
 
 # Info
 Matteo Gasparin
 
-Dept. of Economics\\
-USI (Università della Svizzera Italiana), Lugano
+EPFL (École Polytechnique Fédérale de Lausanne), Lausanne, Switzerland
 
 # Research interests
 I am deeply interested in statistical methodology and theory both parametric and nonparametric. Some examples are:

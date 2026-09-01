@@ -34,6 +34,8 @@ Gasparin M., Ramdas A. (202+). Merging uncertainty sets via majority vote. [[arX
 
 <div class="publications-list" markdown="1">
 
+Gasparin M., Goeman J.J., Heller R., Solari A. (202+). Combining dependent p-values:  Methods and properties from a practical perspective, *Annual Review of Statistics and Its Application*, Accepted
+
 Gasparin M., Ramdas A. (2026). Conformal online model aggregation. *Uncertainty in AI (UAI)*, accepted. [[arXiv]](https://arxiv.org/abs/2403.15527)
 
 Gasparin M., Ramdas A. (2025). Improving the statistical efficiency of cross-conformal prediction. *International Conference on Machine Learning (ICML)*, Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:18848–18867. [[arXiv]](https://arxiv.org/abs/2503.01495) [[link]](https://proceedings.mlr.press/v267/)
